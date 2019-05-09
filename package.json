@@ -1,0 +1,22 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "testPackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiaoshi123/testPackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiaoshi123/testPackage/issues"
+  },
+  "homepage": "https://github.com/qiaoshi123/testPackage#readme",
+  "devDependencies": {
+    "lerna": "^3.13.4"
+  }
+}
