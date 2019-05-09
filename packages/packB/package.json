@@ -1,12 +1,11 @@
 {
-  "name": "packa",
-  "version": "0.0.1",
+  "name": "packb",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "gitHead": "992ab38c4390e9bd2537e2a2472a89cb67aa2045"
+  "license": "ISC"
 }
