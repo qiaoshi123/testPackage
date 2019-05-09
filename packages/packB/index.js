@@ -1,1 +1,1 @@
-console.log('second package')
+console.log('second package ')
